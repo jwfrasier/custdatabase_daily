@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.phone {
+  color: red;
+
+}
+div{
+  flex-basis: 25%;
+}
+
+p {
+  text-align: center;
+  margin: 3px;
+}
+img {
+  text-align: center;
+}
